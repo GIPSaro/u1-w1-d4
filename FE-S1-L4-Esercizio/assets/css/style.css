@@ -1,16 +1,11 @@
-/* IMPOSTAZIONI GENERALI */
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap");
 
 body {
   background-color: url("sfondo.png");
-  background-repeat: repeat-y;
 
   background-position: center;
   width: 500px;
   font-family: "Poppins";
-}
-/* HEADER */
 
 header {
   background-color: rgb(4, 94, 97);
@@ -45,7 +40,7 @@ main {
   padding: 77px;
 }
 
-/* ELEMENTI NEL MAIN - ARTICLE */
+
 
 /* TABELLE */
 
